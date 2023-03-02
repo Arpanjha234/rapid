@@ -24,11 +24,6 @@
   "bugs": {
     "url": "https://github.com/Arpanjha234/rapid/issues"
   },
-  "devDependencies": {
-    "autoprefixer": "^10.4.7",
-    "node-sass": "^8.0.0",
-    "postcss-cli": "^10.0.0"
-  },
   "scripts": {
   },
   "files": [
