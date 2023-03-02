@@ -1,0 +1,43 @@
+{
+  "name": "rapid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Arpanjha234/rapid#readme",
+  "author": {
+    "name": "Arpan Jha",
+    "email": "arpanjha234@gmail.com"
+  },
+  "description": "Rapid - A Minimal, Fast, Semantic Framework for A Better Web",
+  "main": "rapid.sass",
+  "unpkg": "css/Rapid.css",
+  "style": "css/rapid.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpanjha234/Rapid.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "js",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/Arpanjha234/rapid/issues"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "clean-css-cli": "^5.6.0",
+    "node-sass": "^8.0.0",
+    "postcss-cli": "^10.0.0"
+  },
+  "scripts": {
+  },
+  "files": [
+    "css",
+    "sass",
+    "js",
+    "rapid.sass",
+    "LICENSE",
+    "README.md"
+  ]
+}
